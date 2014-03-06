@@ -2,9 +2,9 @@
 Nightly Build
 ------------------------------
 
-* Nightly Build Date = Wed Mar  5 12:39:32 UTC 2014
-* Nightly Build Number = 20140305123932
-* Nightly Hash = 36b5407e89af4fb822ca9144c567930bc0ee81a2
+* Nightly Build Date = Thu Mar  6 16:52:16 UTC 2014
+* Nightly Build Number = 20140306165216
+* Nightly Hash = 4b392ba91e549c9e74dc68fdcc6567c683dfe0ae
 
 This is a development build for linux64 and may be unstable or even unusable.
 USE AT YOUR OWN RISK AND HAVE FUN!
