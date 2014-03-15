@@ -1,16 +1,33 @@
 nightly-ci
 ==========
 
-| Platform  | Build Status                                 |   | Platform      | Build Status                                   |
-|-----------|----------------------------------------------|---|---------------|------------------------------------------------|
-| Linux32   | [![Build Status][img-linux32]][repo-linux32] |   | Arduino Uno   | [![Build Status][img-uno]][repo-uno]           |
-| Linux64   | [![Build Status][img-linux64]][repo-linux64] |   | Arduino Mega  | [![Build Status][img-mega]][repo-mega]         |
-| OSX32     | [![Build Status][img-osx32]][repo-osx32]     |   | Arduino Tre   | [![Build Status][img-tre]][repo-tre]           |
-| OSX64     | [![Build Status][img-osx64]][repo-osx64]     |   | Intel Galileo | [![Build Status][img-galileo]][repo-galileo]   |
-| Windows32 | [![Build Status][img-win32]][repo-win32]     |   | Teensy 3.1    | [![Build Status][img-teensy]][repo-teensy]     |
-| Windows64 | [![Build Status][img-win64]][repo-win64]     |   | Raspberry Pi  | [![Build Status][img-raspi]][repo-raspi]       |
-| PC-BSD32  | [![Build Status][img-bsd32]][repo-bsd32]     |   | UDOO          | [![Build Status][img-udoo]][repo-udoo]         |
-| PC-BSD64  | [![Build Status][img-bsd64]][repo-bsd64]     |   | Smoothieboard | [![Build Status][img-smoothie]][repo-smoothie] |
+| Platform                | Build Status                                 |   | Platform                       | Build Status                                   |
+|-------------------------|----------------------------------------------|---|--------------------------------|------------------------------------------------|
+| [Linux32][link-linux32] | [![Build Status][img-linux32]][repo-linux32] |   | [Arduino Uno][link-uno]        | [![Build Status][img-uno]][repo-uno]           |
+| [Linux64][link-linux64] | [![Build Status][img-linux64]][repo-linux64] |   | [Arduino Mega][link-mega]      | [![Build Status][img-mega]][repo-mega]         |
+| [OSX32][link-osx32]     | [![Build Status][img-osx32]][repo-osx32]     |   | [Arduino Tre][link-tre]        | [![Build Status][img-tre]][repo-tre]           |
+| [OSX64][link-osx64]     | [![Build Status][img-osx64]][repo-osx64]     |   | [Intel Galileo][link-galileo]  | [![Build Status][img-galileo]][repo-galileo]   |
+| [Windows32][link-win32] | [![Build Status][img-win32]][repo-win32]     |   | [Teensy 3.1][link-teensy]      | [![Build Status][img-teensy]][repo-teensy]     |
+| [Windows64][link-win64] | [![Build Status][img-win64]][repo-win64]     |   | [Raspberry Pi][link-raspi]     | [![Build Status][img-raspi]][repo-raspi]       |
+| [PC-BSD32][link-bsd32]  | [![Build Status][img-bsd32]][repo-bsd32]     |   | [UDOO][link-udoo]              | [![Build Status][img-udoo]][repo-udoo]         |
+| [PC-BSD64][link-bsd64]  | [![Build Status][img-bsd64]][repo-bsd64]     |   | [Smoothieboard][link-smoothie] | [![Build Status][img-smoothie]][repo-smoothie] |
+
+[link-linux32]:  https://github.com/Embroidermodder/nightly-ci/archive/linux32.zip
+[link-linux64]:  https://github.com/Embroidermodder/nightly-ci/archive/linux64.zip
+[link-osx32]:    https://github.com/Embroidermodder/nightly-ci/archive/osx32.zip
+[link-osx64]:    https://github.com/Embroidermodder/nightly-ci/archive/osx64.zip
+[link-win32]:    https://github.com/Embroidermodder/nightly-ci/archive/win32.zip
+[link-win64]:    https://github.com/Embroidermodder/nightly-ci/archive/win64.zip
+[link-bsd32]:    https://github.com/Embroidermodder/nightly-ci/archive/bsd32.zip
+[link-bsd64]:    https://github.com/Embroidermodder/nightly-ci/archive/bsd64.zip
+[link-uno]:      https://github.com/Embroidermodder/nightly-ci/archive/uno.zip
+[link-mega]:     https://github.com/Embroidermodder/nightly-ci/archive/mega.zip
+[link-tre]:      https://github.com/Embroidermodder/nightly-ci/archive/tre.zip
+[link-galileo]:  https://github.com/Embroidermodder/nightly-ci/archive/galileo.zip
+[link-teensy]:   https://github.com/Embroidermodder/nightly-ci/archive/teensy.zip
+[link-raspi]:    https://github.com/Embroidermodder/nightly-ci/archive/raspi.zip
+[link-udoo]:     https://github.com/Embroidermodder/nightly-ci/archive/udoo.zip
+[link-smoothie]: https://github.com/Embroidermodder/nightly-ci/archive/smoothie.zip
 
 [img-linux32]:  https://travis-ci.org/Embroidermodder/travis-linux32.png?branch=master
 [img-linux64]:  https://travis-ci.org/Embroidermodder/travis-linux64.png?branch=master
@@ -45,3 +62,4 @@ nightly-ci
 [repo-raspi]: https://travis-ci.org/Embroidermodder/travis-raspi
 [repo-udoo]: https://travis-ci.org/Embroidermodder/travis-udoo
 [repo-smoothie]: https://travis-ci.org/Embroidermodder/travis-smoothie
+
