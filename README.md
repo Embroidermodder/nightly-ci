@@ -2,10 +2,10 @@
 Nightly Build
 ------------------------------
 
-* Embroidermodder Nightly Build Date = Mon Apr 28 15:55:57 PDT 2014
-* Embroidermodder Nightly Build Number = 20140428155557
-* Embroidermodder Nightly Hash = [40ad16b58664c8cb184b9f8de299a40b5bd51529](https://github.com/Embroidermodder/Embroidermodder/commit/40ad16b58664c8cb184b9f8de299a40b5bd51529)
-* Travis Build ID = [23974997](https://travis-ci.org/Embroidermodder/Embroidermodder/builds/23974997)
+* Embroidermodder Nightly Build Date = Wed May  7 06:45:50 PDT 2014
+* Embroidermodder Nightly Build Number = 20140507064550
+* Embroidermodder Nightly Hash = [244418a98ba2e584c7ca469dc1d18be045480592](https://github.com/Embroidermodder/Embroidermodder/commit/244418a98ba2e584c7ca469dc1d18be045480592)
+* Travis Build ID = [24626005](https://travis-ci.org/Embroidermodder/Embroidermodder/builds/24626005)
 
 When running the applications for the first time, you will need to right click on it and select Open.
 After that, you will be able to launch the applications normally by double clicking on them or launch them from the dock.
