@@ -2,10 +2,10 @@
 Nightly Build
 ------------------------------
 
-* Embroidermodder Nightly Build Date = Fri Jan 30 10:49:56 UTC 2015
-* Embroidermodder Nightly Build Number = 20150130104956
-* Embroidermodder Nightly Hash = [2065c5532f55c8a6cef9d1b22dd259ff6a776946](https://github.com/Embroidermodder/Embroidermodder/commit/2065c5532f55c8a6cef9d1b22dd259ff6a776946)
-* Travis Build ID = [48879084](https://travis-ci.org/Embroidermodder/Embroidermodder/builds/48879084)
+* Embroidermodder Nightly Build Date = Fri Feb  6 06:15:23 UTC 2015
+* Embroidermodder Nightly Build Number = 20150206061523
+* Embroidermodder Nightly Hash = [f2a1279d8a3794889dbbb2f5c383f085beef8402](https://github.com/Embroidermodder/Embroidermodder/commit/f2a1279d8a3794889dbbb2f5c383f085beef8402)
+* Travis Build ID = [49704041](https://travis-ci.org/Embroidermodder/Embroidermodder/builds/49704041)
 
 You must have these packages installed on your machine to be able to run these applications.
 ```
